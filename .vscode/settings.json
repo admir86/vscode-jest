@@ -1,0 +1,5 @@
+{
+  "jest.debugMode": true,
+   "jest.pathToJest": "npm run tst --",
+   "jest.pathToConfig": "./jest.config.js"
+}
